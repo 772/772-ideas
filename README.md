@@ -1,4 +1,4 @@
-# georg-blumenthal-svg
+# public-domain-svgs
 
 A few public domain graphics that were created while playing around with Inkscape.
 
