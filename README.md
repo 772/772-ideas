@@ -1,4 +1,4 @@
-# public-domain-svgs
+# 772-ideas
 
 A few public domain graphics that were created while playing around with Inkscape.
 
